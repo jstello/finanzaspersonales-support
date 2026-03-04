@@ -10,4 +10,4 @@ Live URL (GitHub Pages):
 
 Update placeholder support email in `index.html`:
 
-- `REPLACE_WITH_SUPPORT_EMAIL@example.com`
+- `soporteappai@gmail.com`
